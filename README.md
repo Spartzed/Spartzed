@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcus Rodrigues
-- 🔭 Trabalho como desenvolvedor Full-Stack;
-- 🌱 Estudando Laravel e Testes Unitarios;
+- Sou desenvolvedor especializado em Backend e Full Stack, com experiência na criação e manutenção de plataformas de grande escala e sistemas distribuídos. Atuo desde a concepção do produto até a implementação completa de soluções, sempre com foco em boas práticas, arquitetura limpa, escalabilidade e integração entre serviços.
+Tenho forte experiência em C# com .NET, PHP com Laravel e JavaScript/Vue.js, além de trabalhar com Python em soluções específicas de automação e integrações. Domino a criação de APIs REST, microserviços e fluxos complexos de comunicação entre sistemas, além de sólida base em bancos de dados relacionais e geoespaciais, especialmente PostgreSQL e PostGIS, incluindo cálculos de latitude/longitude e otimização de queries. Tenho vivência com bancos MySQL e modelos não relacionais.
 
 <a href="https://github.com/spartzed">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartzed&layout=compact&langs_count=8&card_width=320&theme=tokyonight"" />
